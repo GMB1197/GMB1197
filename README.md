@@ -47,12 +47,12 @@ Developer italiano appassionato di tecnologia e... pizza! Mi piace creare applic
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=vue&hide_border=true&bg_color=1a1b27&title_color=00DC82&icon_color=00DC82&text_color=a9b1d6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=vue&hide_border=true&bg_color=1a1b27&title_color=00DC82&text_color=a9b1d6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GMB1197&show_icons=true&theme=vue&hide_border=true&bg_color=1a1b27&title_color=00DC82&icon_color=00DC82&text_color=a9b1d6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMB1197&layout=compact&theme=vue&hide_border=true&bg_color=1a1b27&title_color=00DC82&text_color=a9b1d6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUO_USERNAME&theme=vue&hide_border=true&background=1a1b27&ring=00DC82&fire=00DC82&currStreakLabel=00DC82"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMB1197&theme=vue&hide_border=true&background=1a1b27&ring=00DC82&fire=00DC82&currStreakLabel=00DC82"/>
 </div>
 
 ---
@@ -60,7 +60,7 @@ Developer italiano appassionato di tecnologia e... pizza! Mi piace creare applic
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TUO_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GMB1197&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </div>
 
 ---
@@ -68,7 +68,7 @@ Developer italiano appassionato di tecnologia e... pizza! Mi piace creare applic
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TUO_USERNAME/TUO_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/GMB1197/GMB1197/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -76,7 +76,7 @@ Developer italiano appassionato di tecnologia e... pizza! Mi piace creare applic
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TUO_USERNAME&theme=vue&hide_border=true&bg_color=1a1b27&color=00DC82&line=00DC82&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GMB1197&theme=vue&hide_border=true&bg_color=1a1b27&color=00DC82&line=00DC82&point=FFFFFF"/>
 </div>
 
 ---
@@ -103,16 +103,16 @@ const developer = {
 ## Contattami
 
 <div align="center">
-  <a href="https://linkedin.com/in/tuo-profilo">
+  <a href="https://www.linkedin.com/in/giovanbattista-vergara-84b30817a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/tuo-profilo">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.instagram.com/giamba_rtista/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://tuo-sito.com">
+  <a href="https://vergaragiovanbattista.com/">
     <img src="https://img.shields.io/badge/Portfolio-00DC82?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:tua-email@esempio.com">
+  <a href="mailto:vergaragiovanbattista@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -127,7 +127,7 @@ const developer = {
 
 ### Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=TUO_USERNAME&color=00DC82&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=GMB1197&color=00DC82&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
